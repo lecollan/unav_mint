@@ -1,0 +1,47 @@
+absl-py
+numpy
+pandas
+scipy
+pyod
+scikit-learn
+imbalanced-learn
+findspark
+tensorflow
+tensorflow-probability
+versioneer
+
+# teradata
+SQLAlchemy==1.3.19
+teradata
+sqlalchemy-teradata
+h5py
+
+# sphinx
+sphinx
+sphinx_rtd_theme
+
+# Viz
+tensorboard
+matplotlib
+
+# Jupyter / interactive python
+ipykernel
+jupyter_client
+jupyter_core
+markdown
+ipython
+
+# Testing
+pytest>=4.6
+pytest-cov
+mock
+seaborn
+lightgbm
+xgboost
+tensorflow_datasets
+eli5
+shop
+Plotly
+scikit-plot
+nbformat
+keras-tuner
