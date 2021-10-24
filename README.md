@@ -5,9 +5,11 @@ En primer lugar instalar anaconda indivitual edition en la siguiente direccion: 
 
 En segundo lugar, una vez instalado satisfactoriamente el conda, abrimos la terminal para instalar los paquetes y crear el environment. 
 
-conda create -n unav_mint
+conda create -n unav_mint python=3.8
 
 conda activate unav_mint
+
+pip install --upgrade pip
 
 pip install -r requirements.txt
 
